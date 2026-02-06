@@ -1,7 +1,7 @@
 # Hostel-Management-System 
 ### JAVA application for University Project Built with JavaFX + Maven + Mysql
 
-Hostel Management System :house: is a software which aims at the computerization of hostel management letting the entire process and its management be hooked into computer. because the working of any hostel is nearly same, we have chosen our very own “NSBM Green University Hostel” to present the implementation and its design. Without computers, everything goes on registers causing tons of paperwork with very less efficiency, which is where this system can dramatically improve the general management. Our purpose in developing this application was to supply a really attractive and simple UI interface to the need which will be easy to navigate and operate, proper record keeping and reporting, and an application which will be implemented on desktop or client/server with MVC architecture.
+Hostel Management System :house: is a sysyem which aims at the computerization of hostel management letting the entire process and its management be hooked into computer. because the working of any hostel is nearly same, we have chosen our very own “NSBM Green University Hostel” to present the implementation and its design. Without computers, everything goes on registers causing tons of paperwork with very less efficiency, which is where this system can dramatically improve the general management. Our purpose in developing this application was to supply a really attractive and simple UI interface to the need which will be easy to navigate and operate, proper record keeping and reporting, and an application which will be implemented on desktop or client/server with MVC architecture.
 
   - Highly user-friendly :ok_hand:
   - Cross-platform :heartbeat:
